@@ -8,7 +8,7 @@
 
 - ✨ I STORE MY PROJECTS & WORK UNDER REPOSITORIES --> Please see my repo's
 
-- 📫 How to reach me? SEE MY RESUME:)
+- 📫 How to reach me? See my resume or my professional website:)
 
 <!---
 mwmorale/mwmorale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
