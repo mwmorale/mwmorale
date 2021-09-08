@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on anything and everything 
 
-- ✨ I STORE MY PROJECTS & WORK UNDER REPOSITORIES --> Please see my repo's
+- ✨ _I STORE MY PROJECTS & WORK UNDER REPOSITORIES_ --> Please see my repo's or see home page
 
 - 📫 How to reach me? See my resume or my professional website:)
 
