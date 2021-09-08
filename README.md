@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning more and more - currently studying for my "CompTIA Security+ certificate" exam AND my "AWS Solutions Architect Associate certificate" exam
 
-- 💞️ I’m looking to collaborate on anythng and everything 
+- 💞️ I’m looking to collaborate on anything and everything 
+
+- ✨ I STORE MY PROJECTS & WORK UNDER REPOSITORIES --> Please see my repo's
 
 - 📫 How to reach me? SEE MY RESUME:)
 
