@@ -1,16 +1,16 @@
-- 👋 Hi, I’m @mwmorale! You are probably here after seeing a link on my resume. Welcome!
+- 👋 Hi!
 
 - 👀 I’m interested in being a great engineer - I apply where I want to be and do not waste my own time.
 
-- 🌱 I’m currently learning more and more - currently studying for my "CompTIA Security+ certificate" exam AND my "AWS Solutions Architect Associate certificate" exam
+- 🌱 I’m always learning more and more and am probably pursuing too many certifications at once! But, I am okay with it.
 
 - 💞️ I’m looking to collaborate on anything and everything 
 
 - ✨ _I STORE MY PROJECTS & WORK UNDER REPOSITORIES_ --> Please see my repo's or see home page
 
-- 📫 How to reach me? See my resume or my professional website:)
+- 📫 Reach out at any point
 
 <!---
-mwmorale/mwmorale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
